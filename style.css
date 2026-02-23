@@ -1,0 +1,72 @@
+.title {
+    text-align: center;
+}
+
+/* .background {
+    background-image: url('assets/background.jpg');
+    background-size: 50px 50px;
+} */
+
+/*Images*/
+.image-container {
+    position: relative;
+    top: 480px;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.table-image {
+    width: 1000px;
+}
+
+.chair-image {
+    position: absolute;
+    width: 250px;
+    bottom: 25px;
+    left:350px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.mannequinhand-image{
+    position: absolute;
+    width: 200px;
+    bottom: 150px;
+    left:650px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.newspaper-image {
+    position: absolute;
+    width: 300px;
+    bottom: 1px;
+    left:50px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sketchbook-image {
+    position: absolute;
+    width: 250px;
+    bottom: 130px;
+    left:150px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.oldcomputer-image {
+    position: absolute;
+    width: 450px;
+    bottom: 50px;
+    left:270px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
