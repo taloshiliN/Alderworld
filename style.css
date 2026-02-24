@@ -2,15 +2,15 @@
     text-align: center;
 }
 
-/* .background {
-    background-image: url('assets/background.jpg');
-    background-size: 50px 50px;
-} */
+.background {
+    background-image: url('assets/background.png');
+    background-size: 900px 900px;
+}
 
 /*Images*/
 .image-container {
     position: relative;
-    top: 480px;
+    top: 350px;
     margin: 0 auto;
     width: fit-content;
 }
@@ -32,9 +32,9 @@
 
 .mannequinhand-image{
     position: absolute;
-    width: 200px;
-    bottom: 150px;
-    left:650px;
+    width: 100px;
+    bottom: 210px;
+    left:710px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
@@ -43,17 +43,21 @@
 .newspaper-image {
     position: absolute;
     width: 300px;
-    bottom: 1px;
+    bottom: 50px;
     left:50px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
 }
 
+.rotate-animation:hover {
+    transform: rotate(3deg);
+}
+
 .sketchbook-image {
     position: absolute;
     width: 250px;
-    bottom: 130px;
+    bottom: 150px;
     left:150px;
     height: auto;
     margin-left: auto;
@@ -62,9 +66,9 @@
 
 .oldcomputer-image {
     position: absolute;
-    width: 450px;
-    bottom: 50px;
-    left:270px;
+    width: 400px;
+    bottom: 130px;
+    left:340px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
