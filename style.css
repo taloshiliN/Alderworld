@@ -1,9 +1,22 @@
 .title {
     text-align: center;
+    font-family: 'Garamond', serif;
+    font-size: 3.5rem;
+    font-weight: 600;
 }
 
-.background {
-    background-image: url('assets/background.png');
+.home-background {
+    background-image: url('assets/home-background.png');
+    background-size: 900px 900px;
+}
+
+.biology-background {
+    background-image: url('assets/biology-background.png');
+    background-size: 900px 900px;
+}
+
+.sketches-background {
+    background-image: url('assets/sketches-background.png');
     background-size: 900px 900px;
 }
 
