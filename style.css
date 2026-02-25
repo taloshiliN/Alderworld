@@ -20,6 +20,22 @@
     background-size: 900px 900px;
 }
 
+.information-background {
+    background-image: url('assets/information-background.png');
+    background-size: 1600px 1000px;
+    background-repeat: no-repeat;
+}
+
+.info-section-content {
+    background-image: url('assets/info-section.png');
+    background-size: 900px 900px;
+    font-family: "ＭＳ Ｐゴシック", monospace;
+    font-size: 1.5rem;
+    color: white;
+    width: 60%;
+    /* margin: 0 auto;
+    text-align: center; */
+}
 /*Images*/
 .image-container {
     position: relative;
